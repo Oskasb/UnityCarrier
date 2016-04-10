@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: eee2d8f2efd34d449a9245bb8676dfa2
+timeCreated: 1460287554
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: animated
+    100002: catapult_1
+    100004: catapult_2
+    100006: catapult_3
+    100008: catapult_4
+    100010: details
+    100012: door_1
+    100014: door_2
+    100016: door_3
+    100018: door_4
+    100020: elevator_1
+    100022: elevator_2
+    100024: elevator_3
+    100026: elevator_4
+    100028: //RootNode
+    100030: noshadow
+    100032: phys_shape
+    100034: radar_main
+    100036: radar_mast_1
+    100038: radar_mast_2
+    100040: radar_mast_flat
+    100042: radar_square
+    100044: radar_square_small
+    100046: Root_Node
+    400000: animated
+    400002: catapult_1
+    400004: catapult_2
+    400006: catapult_3
+    400008: catapult_4
+    400010: details
+    400012: door_1
+    400014: door_2
+    400016: door_3
+    400018: door_4
+    400020: elevator_1
+    400022: elevator_2
+    400024: elevator_3
+    400026: elevator_4
+    400028: //RootNode
+    400030: noshadow
+    400032: phys_shape
+    400034: radar_main
+    400036: radar_mast_1
+    400038: radar_mast_2
+    400040: radar_mast_flat
+    400042: radar_square
+    400044: radar_square_small
+    400046: Root_Node
+    2300000: details
+    2300002: noshadow
+    2300004: phys_shape
+    3300000: details
+    3300002: noshadow
+    3300004: phys_shape
+    4300000: phys_shape
+    4300002: animated
+    4300004: details
+    4300006: noshadow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: animated
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
