@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: f9990a6e992716840aea9cba1e4d4af4
+timeCreated: 1460313742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: acceleration
+    100002: airspeed
+    100004: altimeter
+    100006: break_bottom
+    100008: break_top
+    100010: canard_l
+    100012: canard_r
+    100014: canopy
+    100016: climb
+    100018: cockpit
+    100020: cockpit_root
+    100022: compass_2
+    100024: decals
+    100026: door_inner_l
+    100028: door_inner_r
+    100030: door_main_l
+    100032: door_main_r
+    100034: door_nose_l
+    100036: door_nose_r
+    100038: door_rear_l
+    100040: door_rear_r
+    100042: //RootNode
+    100044: flap_l
+    100046: flap_r
+    100048: flaps_lever
+    100050: fuselage
+    100052: gear_l
+    100054: gear_nose
+    100056: gear_r
+    100058: gear_susp_l
+    100060: gear_susp_r
+    100062: glass
+    100064: ground_alt
+    100066: gyro_compass
+    100068: gyro_pitch
+    100070: gyro_roll
+    100072: hook
+    100074: hook_lever
+    100076: instrument_glass
+    100078: lights
+    100080: nose_susp
+    100082: nose_wheel
+    100084: nozzle_l
+    100086: nozzle_r
+    100088: pedal_l
+    100090: pedal_r
+    100092: pivot_l
+    100094: pivot_r
+    100096: pylons
+    100098: root_node
+    100100: rudder_l
+    100102: rudder_r
+    100104: slat_l
+    100106: slat_r
+    100108: spoiler_l
+    100110: spoiler_r
+    100112: stab_inner_l
+    100114: stab_inner_r
+    100116: stab_outer_l
+    100118: stab_outer_r
+    100120: stick_pitch
+    100122: stick_roll
+    100124: surfaces
+    100126: throttle_l
+    100128: throttle_r
+    100130: turn_quality
+    100132: wheel_l
+    100134: wheel_r
+    400000: acceleration
+    400002: airspeed
+    400004: altimeter
+    400006: break_bottom
+    400008: break_top
+    400010: canard_l
+    400012: canard_r
+    400014: canopy
+    400016: climb
+    400018: cockpit
+    400020: cockpit_root
+    400022: compass_2
+    400024: decals
+    400026: door_inner_l
+    400028: door_inner_r
+    400030: door_main_l
+    400032: door_main_r
+    400034: door_nose_l
+    400036: door_nose_r
+    400038: door_rear_l
+    400040: door_rear_r
+    400042: //RootNode
+    400044: flap_l
+    400046: flap_r
+    400048: flaps_lever
+    400050: fuselage
+    400052: gear_l
+    400054: gear_nose
+    400056: gear_r
+    400058: gear_susp_l
+    400060: gear_susp_r
+    400062: glass
+    400064: ground_alt
+    400066: gyro_compass
+    400068: gyro_pitch
+    400070: gyro_roll
+    400072: hook
+    400074: hook_lever
+    400076: instrument_glass
+    400078: lights
+    400080: nose_susp
+    400082: nose_wheel
+    400084: nozzle_l
+    400086: nozzle_r
+    400088: pedal_l
+    400090: pedal_r
+    400092: pivot_l
+    400094: pivot_r
+    400096: pylons
+    400098: root_node
+    400100: rudder_l
+    400102: rudder_r
+    400104: slat_l
+    400106: slat_r
+    400108: spoiler_l
+    400110: spoiler_r
+    400112: stab_inner_l
+    400114: stab_inner_r
+    400116: stab_outer_l
+    400118: stab_outer_r
+    400120: stick_pitch
+    400122: stick_roll
+    400124: surfaces
+    400126: throttle_l
+    400128: throttle_r
+    400130: turn_quality
+    400132: wheel_l
+    400134: wheel_r
+    4300000: cockpit
+    4300002: glass
+    4300004: decals
+    4300006: surfaces
+    4300008: lights
+    4300010: instrument_glass
+    4300012: pylons
+    4300014: fuselage
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cockpit
+    13700002: decals
+    13700004: fuselage
+    13700006: glass
+    13700008: instrument_glass
+    13700010: lights
+    13700012: pylons
+    13700014: surfaces
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
